@@ -13,10 +13,6 @@ Run the project's tests (they'll fail until you edit them):
 
     $ clojure -X:test:runner
 
-### Any Other Sections
-### That You Think
-### Might be Useful
-
 ## License
 
 Copyright © 2021 Prashant Sinha
