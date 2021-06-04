@@ -5,7 +5,8 @@ Solution defaults K to 3.
 
 ## Installation
 
-Download from https://github.com/fr33m0nk/ardoq/problem-1
+* Install Clojure CLI using instructions at [Clojure's official website](https://clojure.org/guides/getting_started)
+* Clone or download from https://github.com/fr33m0nk/ardoq/problem-1
 
 ## Usage
 
